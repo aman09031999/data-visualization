@@ -1,0 +1,9 @@
+test\data_visualisation\DataVisualisationApplication.class
+test\data_visualisation\resource\model\ParticipantInfo.class
+test\data_visualisation\resource\model\Address.class
+test\data_visualisation\resource\Data.class
+test\data_visualisation\resource\HomeController.class
+test\data_visualisation\resource\model\Transaction.class
+test\data_visualisation\resource\model\ParticipantType.class
+test\data_visualisation\ServletInitializer.class
+test\data_visualisation\resource\model\Participant.class
